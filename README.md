@@ -17,13 +17,16 @@ It was a revolutionary cloud-based platform for planning, tracking and reporting
 #### Frontend  
 ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white)
  ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) ![Redux](https://img.shields.io/badge/redux-%23593d88.svg?style=for-the-badge&logo=redux&logoColor=white) 
+ 
+#### Mobile
+![React Native](https://cdn.buttercms.com/S6sfpy7OT3yBokvhGo09)
 
 #### Backend
 ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white) ![Meteor JS](https://img.shields.io/badge/meteorjs-%23d74c4c.svg?style=for-the-badge&logo=meteor&logoColor=white)
 #### Databases
 ![MySQL](https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white) ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white)
 #### Libraries
-![MUI](https://img.shields.io/badge/MUI-%230081CB.svg?style=for-the-badge&logo=mui&logoColor=white) ![Bootstrap](https://img.shields.io/badge/bootstrap-%23563D7C.svg?style=for-the-badge&logo=bootstrap&logoColor=white) ![formik-og](https://user-images.githubusercontent.com/52775865/162455247-cc1aa3ef-5f81-49fd-a478-10728fd2edde.png) ![fa3caa6933e52bd266cc9fbe6eb07d64](https://user-images.githubusercontent.com/52775865/162456297-011bc6e7-8c45-48df-97b3-d10bebe9c07b.png)  
+![MUI](https://img.shields.io/badge/MUI-%230081CB.svg?style=for-the-badge&logo=mui&logoColor=white) ![Bootstrap](https://img.shields.io/badge/bootstrap-%23563D7C.svg?style=for-the-badge&logo=bootstrap&logoColor=white) ![formik-og](https://user-images.githubusercontent.com/52775865/162455247-cc1aa3ef-5f81-49fd-a478-10728fd2edde.png) ![fa3caa6933e52bd266cc9fbe6eb07d64](https://user-images.githubusercontent.com/52775865/162456297-011bc6e7-8c45-48df-97b3-d10bebe9c07b.png)
 
 ### Check out my gists ☞ [<img src= "https://i.pinimg.com/originals/2d/8e/e8/2d8ee815146390d567706f2c7b5c2916.gif" width="70">](https://gist.github.com/KaterinaStrukova)
 
