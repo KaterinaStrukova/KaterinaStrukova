@@ -26,7 +26,7 @@ It was a revolutionary cloud-based platform for planning, tracking and reporting
 #### Databases
 ![MySQL](https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white) ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white)
 #### Libraries
-![MUI](https://img.shields.io/badge/MUI-%230081CB.svg?style=for-the-badge&logo=mui&logoColor=white) ![Bootstrap](https://img.shields.io/badge/bootstrap-%23563D7C.svg?style=for-the-badge&logo=bootstrap&logoColor=white) ![formik-og](https://user-images.githubusercontent.com/52775865/162455247-cc1aa3ef-5f81-49fd-a478-10728fd2edde.png) ![fa3caa6933e52bd266cc9fbe6eb07d64](https://user-images.githubusercontent.com/52775865/162456297-011bc6e7-8c45-48df-97b3-d10bebe9c07b.png) ![Styled components](https://img.shields.io/badge/styled--components-DB7093?style=for-the-badge&logo=styled-components&logoColor=white)
+![MUI](https://img.shields.io/badge/MUI-%230081CB.svg?style=for-the-badge&logo=mui&logoColor=white) ![Bootstrap](https://img.shields.io/badge/bootstrap-%23563D7C.svg?style=for-the-badge&logo=bootstrap&logoColor=white) ![formik-og](https://user-images.githubusercontent.com/52775865/162455247-cc1aa3ef-5f81-49fd-a478-10728fd2edde.png) ![fa3caa6933e52bd266cc9fbe6eb07d64](https://user-images.githubusercontent.com/52775865/162456297-011bc6e7-8c45-48df-97b3-d10bebe9c07b.png) ![Styled components](https://img.shields.io/badge/styled-components-DB7093?style=for-the-badge&logo=styled-components&logoColor=white)
 #### Test
 ![Jest](https://img.shields.io/badge/Jest-323330?style=for-the-badge&logo=Jest&logoColor=white)
 
